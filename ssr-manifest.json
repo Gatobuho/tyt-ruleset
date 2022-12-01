@@ -47,16 +47,14 @@
   "node_modules/.pnpm/@vueuse+core@9.5.0_vue@3.2.45/node_modules/@vueuse/core/index.mjs": [],
   "src/composables/dark.ts": [],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/layouts/default.vue?vue&type=style&index=0&scoped=d2b10593&lang.css": [],
   "\u0000plugin-vue:export-helper": [],
   "src/layouts/default.vue": [],
   "../../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
   "\u0000virtual:vue-component-preview": [],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
-  "../../../../../../plugin-define-model/use-vmodel": [],
-  "src/components/Input.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/store/user.ts": [],
-  "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [],
-  "../../../../../../@vite-plugin-pages/route-block": [],
+  "src/pages/index.vue?vue&type=script&lang.ts": [],
+  "src/pages/index.vue?vue&type=style&index=0&scoped=28146513&lang.css": [],
   "src/pages/index.vue": [],
   "../../../../../../@vite-plugin-pages/generated-pages?id=~pages": [],
   "node_modules/.pnpm/@unocss+reset@0.46.5/node_modules/@unocss/reset/tailwind.css": [],
@@ -64,51 +62,81 @@
   "../../../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.7b497200.js-unocss-hash.css": [],
+  "assets/app.1296fd7c.js-unocss-hash.css": [],
   "../../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/tyt-ruleset/assets/virtual_pwa-register.e7ed1604.js"
+    "/tyt-ruleset/assets/virtual_pwa-register.52987ca0.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/tyt-ruleset/assets/404.5f1fd9a4.js"
+    "/tyt-ruleset/assets/404.d05f9880.js"
   ],
   "src/layouts/404.vue": [
-    "/tyt-ruleset/assets/404.5f1fd9a4.js"
+    "/tyt-ruleset/assets/404.d05f9880.js"
   ],
   "src/layouts/home.vue": [
-    "/tyt-ruleset/assets/home.c6e68768.js"
+    "/tyt-ruleset/assets/home.59fb6e2a.js"
   ],
   "src/pages/whitehack/toc.md": [
-    "/tyt-ruleset/assets/toc.7a855d94.js"
+    "/tyt-ruleset/assets/toc.80285588.js"
   ],
   "src/pages/whitehack/tables.md": [
-    "/tyt-ruleset/assets/tables.3460018b.js"
+    "/tyt-ruleset/assets/tables.e1df90be.js"
   ],
   "src/pages/whitehack/figures.md": [
-    "/tyt-ruleset/assets/figures.00bcff37.js"
+    "/tyt-ruleset/assets/figures.0403fe07.js"
   ],
   "src/pages/Tresspasser/toc.md": [
-    "/tyt-ruleset/assets/toc.408a7eef.js"
+    "/tyt-ruleset/assets/toc.9ed8ca72.js"
+  ],
+  "src/pages/rules/index.vue?vue&type=script&lang.ts": [
+    "/tyt-ruleset/assets/index.2864d9a5.js",
+    "/tyt-ruleset/assets/index.0fe82511.css"
+  ],
+  "src/pages/rules/index.vue?vue&type=style&index=0&scoped=4976d101&lang.css": [
+    "/tyt-ruleset/assets/index.2864d9a5.js",
+    "/tyt-ruleset/assets/index.0fe82511.css"
+  ],
+  "src/pages/rules/index.vue": [
+    "/tyt-ruleset/assets/index.2864d9a5.js",
+    "/tyt-ruleset/assets/index.0fe82511.css"
   ],
   "src/pages/Entromancy/toc.md": [
-    "/tyt-ruleset/assets/toc.ea3cdea2.js"
+    "/tyt-ruleset/assets/toc.ddd032c7.js"
+  ],
+  "src/pages/campaigns/index.vue?vue&type=script&lang.ts": [
+    "/tyt-ruleset/assets/index.ff4630c4.js",
+    "/tyt-ruleset/assets/index.449e6824.css"
+  ],
+  "src/pages/campaigns/index.vue?vue&type=style&index=0&scoped=32ad78b4&lang.css": [
+    "/tyt-ruleset/assets/index.ff4630c4.js",
+    "/tyt-ruleset/assets/index.449e6824.css"
+  ],
+  "src/pages/campaigns/index.vue": [
+    "/tyt-ruleset/assets/index.ff4630c4.js",
+    "/tyt-ruleset/assets/index.449e6824.css"
   ],
   "src/pages/README.md": [
-    "/tyt-ruleset/assets/README.5d0bd483.js"
+    "/tyt-ruleset/assets/README.0cc70881.js"
   ],
   "src/pages/about.md": [
-    "/tyt-ruleset/assets/about.9ae48f89.js"
+    "/tyt-ruleset/assets/about.9b5ab085.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/tyt-ruleset/assets/_...all_.fdbb3dcb.js"
+    "/tyt-ruleset/assets/_...all_.10057e0f.js"
+  ],
+  "../../../../../../@vite-plugin-pages/route-block": [
+    "/tyt-ruleset/assets/_...all_.10057e0f.js"
   ],
   "src/pages/[...all].vue": [
-    "/tyt-ruleset/assets/_...all_.fdbb3dcb.js"
+    "/tyt-ruleset/assets/_...all_.10057e0f.js"
+  ],
+  "src/store/user.ts": [
+    "/tyt-ruleset/assets/_name_.aa229364.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/tyt-ruleset/assets/_name_.f2711d0b.js"
+    "/tyt-ruleset/assets/_name_.aa229364.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/tyt-ruleset/assets/_name_.f2711d0b.js"
+    "/tyt-ruleset/assets/_name_.aa229364.js"
   ],
   "node_modules/.pnpm/workbox-window@6.5.4/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/tyt-ruleset/assets/workbox-window.prod.es5.6954f450.js"

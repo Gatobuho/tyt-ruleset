@@ -1,0 +1,1 @@
+import{g as c,c as n,a as e,o as r,r as s,h as a}from"./app.1296fd7c.js";const _={},m={class:"px-4 py-10 text-center text-gray-700 dark:text-gray-200"};function p(i,f){const t=s("RouterView"),o=a;return r(),n("main",m,[e(t),e(o)])}const d=c(_,[["render",p]]);export{d as default};
